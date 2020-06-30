@@ -10,7 +10,7 @@ class BreadSlice {
 class Jelly {
   path: string;
 }
-class PB {
+class Pb {
   path: string;
 }
 class JellySlice {
